@@ -1,0 +1,30 @@
+.popup{
+    background-color: crimson;
+    color: white;
+}
+.modal{
+    margin-top: 70px;
+   
+}
+.notify{
+    margin-left: -3px;
+    margin-top: -10px;
+}
+.dot {
+    height: 15px;
+    width: 15px;
+    background-color: blue;
+    border-radius: 50%;
+    display: inline-block;
+    color: white;
+    font: bold;
+    padding: 12px;
+    margin-bottom: 10px;
+  }
+  .cart-icon{
+    margin-left: -100px;
+    cursor: pointer;
+  }
+  .item-parent{
+    display: flex;
+  }

@@ -1,0 +1,21 @@
+.navbar{
+background-color: grey;
+height: 70px;
+}
+.badge{
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 8px;
+    border-radius: 5px;
+    margin-left: 550px;
+}
+.badges{
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 8px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+

@@ -1,0 +1,29 @@
+.paynow{
+    background-color: crimson;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 5px;
+    width: 80px;
+}
+input{
+    border-radius: 5px;
+}
+.cartImages{
+    height: 25px;
+    width: 25px;
+} 
+
+th{
+    border: 1px solid black;
+    width: 100px;
+}
+tr{
+    border: 1px solid black;
+
+}
+td{
+    border: 1px solid black;
+    width: 100px;
+   
+}
